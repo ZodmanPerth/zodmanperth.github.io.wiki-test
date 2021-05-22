@@ -3,11 +3,11 @@
   <title>The Scarlet Codex</title>
   
   
-  <link href="https://www.redperegrine.net/wiki-test/atom.xml" rel="self"/>
+  <link href="https://www.redperegrine.net/codex/atom.xml" rel="self"/>
   
-  <link href="https://www.redperegrine.net/wiki-test/"/>
-  <updated>2021-05-15T08:43:02.535Z</updated>
-  <id>https://www.redperegrine.net/wiki-test/</id>
+  <link href="https://www.redperegrine.net/codex/"/>
+  <updated>2021-05-22T04:42:43.772Z</updated>
+  <id>https://www.redperegrine.net/codex/</id>
   
   <author>
     <name>Carl Scarlett</name>
@@ -17,9 +17,26 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>test</title>
+    <link href="https://www.redperegrine.net/codex/References/test/"/>
+    <id>https://www.redperegrine.net/codex/References/test/</id>
+    <published>2021-05-22T08:28:54.000Z</published>
+    <updated>2021-05-22T04:42:43.772Z</updated>
+    
+    
+    
+    
+    <category term="References" scheme="https://www.redperegrine.net/codex/categories/references/"/>
+    
+    
+    <category term="tag1" scheme="https://www.redperegrine.net/codex/tags/tag1/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Home Page</title>
-    <link href="https://www.redperegrine.net/wiki-test/Home/"/>
-    <id>https://www.redperegrine.net/wiki-test/Home/</id>
+    <link href="https://www.redperegrine.net/codex/Home/"/>
+    <id>https://www.redperegrine.net/codex/Home/</id>
     <published>2021-05-15T08:28:54.000Z</published>
     <updated>2021-05-15T08:43:02.535Z</updated>
     
@@ -31,37 +48,37 @@
   
   <entry>
     <title>C#</title>
-    <link href="https://www.redperegrine.net/wiki-test/References/CSharp/"/>
-    <id>https://www.redperegrine.net/wiki-test/References/CSharp/</id>
+    <link href="https://www.redperegrine.net/codex/References/CSharp/"/>
+    <id>https://www.redperegrine.net/codex/References/CSharp/</id>
     <published>2021-05-15T08:28:54.000Z</published>
     <updated>2021-05-15T08:44:39.876Z</updated>
     
     
     
     
-    <category term="References" scheme="https://www.redperegrine.net/wiki-test/categories/references/"/>
+    <category term="References" scheme="https://www.redperegrine.net/codex/categories/references/"/>
     
     
-    <category term="tag1" scheme="https://www.redperegrine.net/wiki-test/tags/tag1/"/>
+    <category term="tag1" scheme="https://www.redperegrine.net/codex/tags/tag1/"/>
     
   </entry>
   
   <entry>
     <title>XAML</title>
-    <link href="https://www.redperegrine.net/wiki-test/References/XAML/"/>
-    <id>https://www.redperegrine.net/wiki-test/References/XAML/</id>
+    <link href="https://www.redperegrine.net/codex/References/XAML/"/>
+    <id>https://www.redperegrine.net/codex/References/XAML/</id>
     <published>2021-05-11T08:28:54.000Z</published>
     <updated>2021-05-16T02:23:51.635Z</updated>
     
     
     
     
-    <category term="References" scheme="https://www.redperegrine.net/wiki-test/categories/references/"/>
+    <category term="References" scheme="https://www.redperegrine.net/codex/categories/references/"/>
     
     
-    <category term="tag1" scheme="https://www.redperegrine.net/wiki-test/tags/tag1/"/>
+    <category term="tag1" scheme="https://www.redperegrine.net/codex/tags/tag1/"/>
     
-    <category term="tag2 FTW!" scheme="https://www.redperegrine.net/wiki-test/tags/tag2-ftw/"/>
+    <category term="tag2 FTW!" scheme="https://www.redperegrine.net/codex/tags/tag2-ftw/"/>
     
   </entry>
   
