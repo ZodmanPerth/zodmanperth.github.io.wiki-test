@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>The Scarlet Codex</title>
+  
+  
+  <link href="https://www.redperegrine.net/wiki-test/atom.xml" rel="self"/>
+  
+  <link href="https://www.redperegrine.net/wiki-test/"/>
+  <updated>2021-05-15T08:43:02.535Z</updated>
+  <id>https://www.redperegrine.net/wiki-test/</id>
+  
+  <author>
+    <name>Carl Scarlett</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Home Page</title>
+    <link href="https://www.redperegrine.net/wiki-test/Home/"/>
+    <id>https://www.redperegrine.net/wiki-test/Home/</id>
+    <published>2021-05-15T08:28:54.000Z</published>
+    <updated>2021-05-15T08:43:02.535Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>C#</title>
+    <link href="https://www.redperegrine.net/wiki-test/References/CSharp/"/>
+    <id>https://www.redperegrine.net/wiki-test/References/CSharp/</id>
+    <published>2021-05-15T08:28:54.000Z</published>
+    <updated>2021-05-15T08:44:39.876Z</updated>
+    
+    
+    
+    
+    <category term="References" scheme="https://www.redperegrine.net/wiki-test/categories/references/"/>
+    
+    
+    <category term="tag1" scheme="https://www.redperegrine.net/wiki-test/tags/tag1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>XAML</title>
+    <link href="https://www.redperegrine.net/wiki-test/References/XAML/"/>
+    <id>https://www.redperegrine.net/wiki-test/References/XAML/</id>
+    <published>2021-05-11T08:28:54.000Z</published>
+    <updated>2021-05-16T02:23:51.635Z</updated>
+    
+    
+    
+    
+    <category term="References" scheme="https://www.redperegrine.net/wiki-test/categories/references/"/>
+    
+    
+    <category term="tag1" scheme="https://www.redperegrine.net/wiki-test/tags/tag1/"/>
+    
+    <category term="tag2 FTW!" scheme="https://www.redperegrine.net/wiki-test/tags/tag2-ftw/"/>
+    
+  </entry>
+  
+</feed>
